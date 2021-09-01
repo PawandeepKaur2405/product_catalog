@@ -9,7 +9,7 @@ class HomePage extends StatelessWidget {
       ),
       body: Center(
         child: Container(
-          child: Text("Heya.Welcome :) !"),
+          child: Text("Heya.Welcome :)"),
         ),
       ),
       drawer: Drawer(),
